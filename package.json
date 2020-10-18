@@ -1,0 +1,14 @@
+{
+  "name": "d6e1a7c5e4da4239",
+  "main": "d6e1a7c5e4da4239@717.js",
+  "version": "717.0.0",
+  "homepage": "https://observablehq.com/d/d6e1a7c5e4da4239",
+  "author": {
+    "name": "Zack Ni",
+    "url": "https://observablehq.com/@niyuzheno1"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
